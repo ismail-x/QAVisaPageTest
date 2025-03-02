@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+    <suite name="All Test Suite">
+
+        <listeners>
+            <listener class-name="Ismail.TestComponents.Listeners"/>
+        </listeners>
+
+        <test thread-count="3" verbose="2" preserve-order="true" name="Visa Test Positive">
+            <classes>
+
+                <class name="Ismail.Test.FinishedTest"></class>
+                <class name="Ismail.Test.InvalidInput"></class>
+
+            </classes>
+        </test>
+    </suite>
+

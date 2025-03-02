@@ -1,0 +1,15 @@
+[
+  {
+    "negaraAsal": "somalia",
+    "negaraTujuan": "Japan",
+    "firstName": "ismail",
+    "lastName": "ismail",
+    "email": "Invalid email",
+    "phoneNumber": "idjdid",
+    "visaDays": "90",
+    "entry": "multiple",
+    "visa": "study_visa",
+    "notes": "THIS IS A NOTE",
+    "expectedText": "We have received your visa details, and one of our representatives will contact you shortly. Your visa registration number is"
+  }
+]
